@@ -45,4 +45,21 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### ▢ Contributions
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abocaugustin-dotcom\&theme=github-dark\&hide_border=true)
+
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/pacman-contribution-graph.svg">
+
+</picture>
+
 ###
