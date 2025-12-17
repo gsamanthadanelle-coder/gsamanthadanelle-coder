@@ -3,7 +3,7 @@
 ![alt text](<github-header-banner (5).png>)
 
 <!--
-**abocaugustin-dotcom/abocaugustin-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gsamanthadanelle-coder/gsamanthadanelle-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 
 #### Connect with me
 
-![https://www.instagram.com/augs.10/?igsh=MWZiZmNibmpuZHdwdQ%3D%3D#](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@abuki.84?_r=1&_t=ZS-91xrIm127Wh](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.facebook.com/augustin.abociii/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![https://www.tiktok.com/@saemm_2?_r=1&_t=ZS-92IBD5DhMfZ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.instagram.com/smnthdnll0?igsh=bTNlaXZqejFoYzIw](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.facebook.com/samm.galapate](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 ##### My Github Stats 
 
-![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abocaugustin-dotcom&show_icons=true&theme=blue-green)
-![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abocaugustin-dotcom&show_icons=true&theme=blue-green)
+![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsamanthadanelle-coder&show_icons=true&theme=blue-green)
+![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsamanthadanelle-coder&show_icons=true&theme=blue-green)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abocaugustin-dotcom&layout=donut&show_icons=true&theme=blue-green)
 
 
 ### ▢ GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abocaugustin-dotcom\&show_icons=true&theme=blue-green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsamanthadanelle-coder\&show_icons=true&theme=blue-green)
 </td>
 </tr>
 </table>
@@ -46,19 +46,19 @@ Here are some ideas to get you started:
 
 ### ▢ Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abocaugustin-dotcom\&theme=github-dark\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gsamanthadanelle-coder\&theme=github-dark\&hide_border=true)
 
 </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gsamanthadanelle-coder/gsamanthadanelle-coder/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsamanthadanelle-coder/gsamanthadanelle-coder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsamanthadanelle-coder/gsamanthadanelle-coder/output/pacman-contribution-graph.svg">
 
 </picture>
 
