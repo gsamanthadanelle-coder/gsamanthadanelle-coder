@@ -63,14 +63,18 @@ Since I’m still growing, you can find all my projects here 🌸
 </p>
 
 ---
+## 🌸 GitHub Activity
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsamanthadanelle-coder&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsamanthadanelle-coder&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsamanthadanelle-coder&theme=rose_pine&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsamanthadanelle-coder&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
