@@ -3,64 +3,32 @@
 ![alt text](<<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ba2ab83-18b6-4360-abc6-c95e015513b6" />
 >)
 
-<!--
-**gsamanthadanelle-coder/gsamanthadanelle-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Skills
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 
 #### Connect with me
 
 ![https://www.tiktok.com/@saemm_2?_r=1&_t=ZS-92IBD5DhMfZ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.instagram.com/smnthdnll0?igsh=bTNlaXZqejFoYzIw](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.facebook.com/samm.galapate](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
-##### My Github Stats 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gsamanthadanelle-coder&label=profile%20views&color=ffb6c1&style=flat" />
+</p>
 
-![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsamanthadanelle-coder&show_icons=true&theme=blue-green)
-![Samantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsamanthadanelle-coder&show_icons=true&theme=blue-green)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=22&pause=1000&color=FF9EBB&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+♡;Cute+Code+in+Progress+૮˶ᵔᵕᵔ˶ა;Learning+something+new+everyday!" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abocaugustin-dotcom&layout=donut&show_icons=true&theme=blue-green)
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
+</p>
 
+---
 
-### ▢ GitHub Streak
+## 🎀 About Me
+♡ 🌱 Currently learning **programming & development**  
+♡ 💻 I enjoy building cute and useful projects  
+♡ 🎯 Dream: **Become a confident developer**  
+♡ ✨ I love pink, clean designs, and creative coding  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsamanthadanelle-coder\&show_icons=true&theme=blue-green)
-</td>
-</tr>
-</table>
+---
 
-<div align="center
-  
-### ▢ Contributions
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abocaugustin-dotcom\&theme=github-dark\&hide_border=true)
-
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abocaugustin-dotcom/abocaugustin-dotcom/output/pacman-contribution-graph.svg">
-
-</picture>
-
-###
+## 🛠️ Tech Stack (learning & using)
+<p a
