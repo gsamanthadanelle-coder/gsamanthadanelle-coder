@@ -1,7 +1,4 @@
 
-#### Connect with me
-
-![https://www.tiktok.com/@saemm_2?_r=1&_t=ZS-92IBD5DhMfZ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.instagram.com/smnthdnll0?igsh=bTNlaXZqejFoYzIw](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.facebook.com/samm.galapate](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 <h1 align="center">🌸 Samantha Dañelle 🌸</h1>
 
@@ -58,7 +55,6 @@
 
 ## 📁 My Projects
 Since I’m still growing, you can find all my projects here 🌸  
-(I update them as I learn ✨)
 
 <p align="center">
   <a href="https://github.com/gsamanthadanelle-coder?tab=repositories">
