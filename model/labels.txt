@@ -1,0 +1,10 @@
+Red_rose
+Violet_rose
+Burgundy_rose
+Black_rose
+White_rose
+Pink_rose
+Yellow_rose
+Lightpink_rose
+Peach_rose
+Blue_rose
