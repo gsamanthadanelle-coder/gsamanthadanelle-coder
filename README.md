@@ -1,6 +1,7 @@
 
 
-![alt text](<github-header-banner (5).png>)
+![alt text](<<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/1ba2ab83-18b6-4360-abc6-c95e015513b6" />
+>)
 
 <!--
 **gsamanthadanelle-coder/gsamanthadanelle-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
