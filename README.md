@@ -40,12 +40,12 @@
 
 ## 📌 My Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsamanthadanelle-coder&repo=REPO_NAME_1&theme=rose_pine" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsamanthadanelle-coder&repo=REPO_NAME_2&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsamanthadanelle-coder&repo=GALAPATE_IT120_Act1&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsamanthadanelle-coder&repo=Flutter_Widgets_UIComponents&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsamanthadanelle-coder&repo=Galapate_Flower-Varieties-of-Rose_Classification_FinalProject&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsamanthadanelle-coder&repo=gsamanthadanelle-coder&theme=rose_pine" />
 </p>
 
-✨ Replace `REPO_NAME_1` and `REPO_NAME_2` with your actual repository names  
-(example: `portfolio`, `calculator`, `practice-projects`, etc.)
 
 ---
 
